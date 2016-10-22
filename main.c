@@ -13,7 +13,7 @@ void start(){
 	int c=0;
 	printf("NLP Assignment 1\n\n");
 	printf("KMP Algorithm implementation\n");
-	printf("Author: Animesh A. Kujur\n\n\n");
+	printf("Author: VIJAY GOPAL\n\n\n");
 	printf("Enter name of the text file(.txt): ");
 	scanf("%s", name);
 	text=read_file(name);
